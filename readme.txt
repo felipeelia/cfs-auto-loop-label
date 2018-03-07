@@ -1,17 +1,17 @@
 === CFS Auto Loop Label ===
 Contributors: felipeelia
-Donate link: http://felipeelia.com/
+Donate link: https://felipeelia.com.br/
 Tags: cfs, Custom Field Suite, loop label, auto loop label
 Requires at least: 4.0
-Tested up to: 4.6
-Stable tag: trunk
+Tested up to: 4.9.4
+Stable tag: 1.0.2
 License: GPLv2
 
 Custom Field Suite addon that auto label loops with the first textfield value
 
 == Description ==
 
-CFS Auto Loop Label takes the first textfield value of each loop and rename it's row. It's very useful when you don't want to have just a list of "Row name" labels in the post edit screen.
+CFS Auto Loop Label is a [Custom Field Suite](https://wordpress.org/plugins/custom-field-suite/) addon that takes the first textfield value of each loop and rename it's row. It's very useful when you don't want to have just a list of "Row name" labels in the post edit screen. If no textfield is find, it takes the first textarea value.
 
 == Installation ==
 
@@ -34,3 +34,10 @@ No, at least not yet.
 
 1. Loop *before* activating CFS Auto Loop Label
 2. Loop *after* activating CFS Auto Loop Label
+
+== Changelog ==
+
+= 1.0.1 (2016-11-23) =
+* If there is no textfield, it takes the first textarea value
+= 1.0.1 (2016-09-01) =
+* Added some Author info and Brazilian Portuguese translation
