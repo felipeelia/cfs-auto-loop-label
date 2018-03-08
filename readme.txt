@@ -13,6 +13,9 @@ Custom Field Suite addon that auto label loops with the first textfield value
 
 CFS Auto Loop Label is a [Custom Field Suite](https://wordpress.org/plugins/custom-field-suite/) addon that takes the first textfield value of each loop and rename it's row. It's very useful when you don't want to have just a list of "Row name" labels in the post edit screen. If no textfield is find, it takes the first textarea value.
 
+You can contribute to the source code in the [GitHub page](https://github.com/felipeelia/cfs-auto-loop-label).
+
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/cfs-auto-loop-label` directory, or install the plugin through the WordPress plugins screen directly.
